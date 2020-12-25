@@ -1,0 +1,19 @@
+html {
+  font-size: 62.5%;
+}
+
+/*  Form Control - Input */
+
+.form-control input:focus {
+  outline: none;
+}
+
+/*  Form Control - Button */
+
+#form .button:focus {
+  outline: none;
+}
+
+#form .button:hover {
+  background-color: #2776de;
+}
