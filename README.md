@@ -1,6 +1,6 @@
 # Sign Up :memo:
 
-A website where you can creat an account, :tada:
+A website where you can creat an account. :tada:
 
 &nbsp;
 
